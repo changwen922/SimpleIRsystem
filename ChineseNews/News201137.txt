@@ -1,0 +1,2 @@
+NVIDIA推出AI Enterprise軟體套件
+繪圖晶片大廠NVIDIA（輝達）宣佈推出 NVIDIAR AI Enterprise，這是一套全方位的企業級人工智慧 (AI) 工具和框架軟體套件，由 NVIDIA 提供最佳化、認證及支援服務，專供今日另外宣布推出的 VMware vSphere 7 Update 2 使用。
